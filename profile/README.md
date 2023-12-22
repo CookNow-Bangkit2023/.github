@@ -13,6 +13,7 @@ CookNow is a recipe application designed to provide users with recipe recommenda
 
 # 📲Preview of CookNow - Bangkit Capstone Project 2023 Batch 2
   ![CookNow Project](preview.png)
+  ![Demo Video CookNow](CookNowDemo.gif)
 # 👊The Team
 
 |            Member           | Student ID |        Path        |        Contacts        |
